@@ -1,0 +1,3 @@
+TOKEN = ''
+ANKR_API_KEY = ''
+USD_API_KEY = ''
